@@ -1,0 +1,1 @@
+[COM8] 2022/04/27 12:45:48 Serial port COM8@9600 open

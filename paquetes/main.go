@@ -3,8 +3,7 @@ package main
 import (
 	"fmt"
 
-	despedida "github.com/brerafra/projectos_go/paquetes/despedida"
-	"github.com/brerafra/projectos_go/paquetes/saludar"
+	"github.com/dickson7/go/13_paquetes/saludar"
 )
 
 func main() {
@@ -13,5 +12,5 @@ func main() {
 	fmt.Println(saludar.MeVes)
 	
 	nombre := "arley"
-	despedida.Despedirse(nombre)
+	depedida.Despedirse(nombre)
 }

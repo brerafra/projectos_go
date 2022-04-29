@@ -1,0 +1,2 @@
+[COM8] 2022/04/27 12:45:55 Serial port COM8@9600 open
+[COM8] 2022/04/27 12:45:55 Rx << web
